@@ -1,9 +1,9 @@
 ---
 layout: home
-title: 
+title: Home
+metaDesc: ""
 postsHeading: Latest posts
 archiveButtonText: See all posts
-metaDesc: ''
-socialImage: ''
+socialImage: ""
 ---
-
+ Hello
