@@ -1,13 +1,13 @@
 {
-  "showThemeCredit": true,
-  "name": "Hylia Starter Kit",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
-  "url": "https://hylia.website",
-  "authorEmail": "me@andy-bell.design",
-  "authorHandle": "@hankchizljaw",
-  "authorName": "Andy Bell",
+  "showThemeCredit": false,
+  "name": "DEAwatch.org",
+  "shortDesc": "DEA news aggregate",
+  "url": "https://deawatch.org",
+  "authorEmail": "christopher@narco.news",
+  "authorHandle": "@just_some_d00d",
+  "authorName": "Christopher",
   "enableThirdPartyComments": false,
-  "maxPostsPerPage": 5,
   "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
-  "faviconPath": "/images/favicon.png"
+  "faviconPath": "/images/favicon.png",
+  "maxPostsPerPage": 20
 }
