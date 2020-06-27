@@ -1,10 +1,14 @@
 .intro {
   background: var(--color-theme-highlight-block);
 
+  &__meta {
+    font-family: monospace;
+  }
+
   &__summary {
     --flow-space: #{get-size(500)};
     font-size: get-size(500);
-
+    font-family: serif;
     a {
       color: currentColor;
 
@@ -20,6 +24,7 @@
 
     &--compact {
       max-width: 20ex;
+      display: none;
     }
   }
 }
