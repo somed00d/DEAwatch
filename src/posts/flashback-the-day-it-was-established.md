@@ -9,8 +9,6 @@ tags:
 ---
 The *Drug War* didn't start with the Drug Enforcement Administration (DEA). Neither did problems surrounding the enforcement of drug laws. In fact many of these problems have persisted for decades, regardless of the agency in charge. So much so that when reading press reports from decades ago they sound as if written just yesterday. To set the scene for the next couple months I'd like to start with one such press report published right when the DEA began.
 
-
-
 ![DEA Genealogy ](/images/22-17-53-jul-07-2020.png "DEA Genealogy")
 
 The United States has been attempting to enforce drug laws since the early 1900s. Throughout that period various agencies have been in charge of this mission. The establishment of the DEA consolidated many agencies. The main two being **Bureau of Narcotics and Dangerous Drugs** (BNDD) and **Office of Drug Abuse Law Enforcement** (ODALE). The B.N.D.D. established only a few years prior in 1968 from a similar consolidation of agencies.
@@ -21,17 +19,17 @@ An [article](https://www.nytimes.com/1973/07/01/archives/the-nation-drug-raids.h
 
 > "Doors crumbling under the weight of policemen. Unkempt officers, some fresh from   stops at local bars, ransacking homes, breaking furniture and shouting obscenities while holding terrified families at gunpoint."
 
-Germany in the 1930s they asked.
+Germany in the 1930s they ask.
 
-> "No, the United States in the 1970's as 'the Narks,' the street term for Federal, state and local narcotics agents, go about their routine business of fighting what President Nixon has called “the most despicable crime” —drug dealing."
+> "No, the United States in the 1970's as 'the Narks,' the street term for Federal, state and local narcotics agents, go about their routine business of fighting what President Nixon has called 'the most despicable crime' —drug dealing."
 
-After a two month investigation by the newspaper they had concluded that the *Narks* "have mistakenly broken into the homes and apartments of dozens of innocent families, terrorizing the occupants and heavily damaging property."
+After a two month investigation by the newspaper they concluded that the *Narks* "have mistakenly broken into the homes and apartments of dozens of innocent families, terrorizing the occupants and heavily damaging property."
 
 It's remarkable and I should be much less surprised than I am by articles like this. What is also important to note about this effort is that it didn't work! Remember this is before the 80s, cocaine was prevalent but not close to what it was about to be. Much of this wasn't to go after organized crime, it was to prevent John Doe from flushing his drugs down the toilet. Before taking office and while in office Nixon maintained his tough on crime stance, focusing on drug addiction. Going as far as citing questionable studies linking crime to drug addiction. Studies carried out by partisans looking to get noticed inside the beltway.
 
 Detailed throughout the article are chaotic raids with little organization. Many even resulting in no drugs whatsoever. One of the more *famous* raids happened in Collinsville, Illinois. Taking place on the night of April 23, 1973, fifteen gun-carrying agents burst into a home and rushed upstairs. That home belonged to Herbert Joseph Giglotto, he later recalled, 
 
-> "I got out of bed; I took about three steps, looked down the hall and I \[saw] men running up the hall dressed like hippies with pistols, yelling and screeching. I turned to my wife. 'God, honey, we're head'"
+> "I got out of bed; I took about three steps, looked down the hall and I \[saw] men running up the hall dressed like hippies with pistols, yelling and screeching. I turned to my wife. 'God, honey, we're dead'"
 
 Quick to grab him, handcuff and throw him onto the bed. One of the men pointing to his wife saying **"Who is that bitch lying there?"** He pleaded with them responding "Before you shoot her, before you do anything, check my identification, because I know you're in the wrong place." After more manhandling and the classic "If you don't tell us where the drugs are, we will kill you." The leader of the pack broke the news, "We made a mistake." *The New York Times* writing, "They had no warrants, no permission from their superiors and took no photographs of damage as their regulations require. They found no drugs."
 
@@ -57,7 +55,7 @@ The *New York Times* adding,
 
 > "youthful agents, some recently out of college with no law enforcement experience, are sent into the field where they often execute raids based on uncorroborated tips, often from drug addicts pressured for information." 
 
-The point here is to simply show that drug enforcement has been ineffective and chaotic since the get-go. The New York Times article published on the exact day the DEA consolidation became effective. The "no-knock" was only [banned](https://www.nytimes.com/2020/06/12/us/breonna-taylor-law-passed.html) in Kentucky last month. And only after another fatal raid, one sounding familiar to those detailed above. Though that doesn't mean all localities around the country have followed suit. Many "no-knock" warrant provisions exist.
+The point here is to simply show that drug enforcement has been ineffective and chaotic since the get-go. *The New York Times* article published on the exact day the DEA consolidation became effective. The "no-knock" was only [banned](https://www.nytimes.com/2020/06/12/us/breonna-taylor-law-passed.html) in Kentucky last month. And only after another fatal raid, one sounding familiar to those detailed above. Though that doesn't mean all localities around the country have followed suit. Many "no-knock" warrant provisions still exist.
 
 The archived Times article ends with a quote from Senator Charles H. Percy of Illinois.
 
