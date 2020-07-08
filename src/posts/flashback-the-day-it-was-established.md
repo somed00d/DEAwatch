@@ -19,11 +19,11 @@ An [article](https://www.nytimes.com/1973/07/01/archives/the-nation-drug-raids.h
 
 > "Doors crumbling under the weight of policemen. Unkempt officers, some fresh from   stops at local bars, ransacking homes, breaking furniture and shouting obscenities while holding terrified families at gunpoint."
 
-Germany in the 1930s they asked.
+Germany in the 1930s they ask.
 
-> "No, the United States in the 1970's as 'the Narks,' the street term for Federal, state and local narcotics agents, go about their routine business of fighting what President Nixon has called “the most despicable crime” —drug dealing."
+> "No, the United States in the 1970's as 'the Narks,' the street term for Federal, state and local narcotics agents, go about their routine business of fighting what President Nixon has called 'the most despicable crime' —drug dealing."
 
-After a two month investigation by the newspaper they had concluded that the *Narks* "have mistakenly broken into the homes and apartments of dozens of innocent families, terrorizing the occupants and heavily damaging property."
+After a two month investigation by the newspaper they concluded that the *Narks* "have mistakenly broken into the homes and apartments of dozens of innocent families, terrorizing the occupants and heavily damaging property."
 
 It's remarkable and I should be much less surprised than I am by articles like this. What is also important to note about this effort is that it didn't work! Remember this is before the 80s, cocaine was prevalent but not close to what it was about to be. Much of this wasn't to go after organized crime, it was to prevent John Doe from flushing his drugs down the toilet. Before taking office and while in office Nixon maintained his tough on crime stance, focusing on drug addiction. Going as far as citing questionable studies linking crime to drug addiction. Studies carried out by partisans looking to get noticed inside the beltway.
 
@@ -55,7 +55,7 @@ The *New York Times* adding,
 
 > "youthful agents, some recently out of college with no law enforcement experience, are sent into the field where they often execute raids based on uncorroborated tips, often from drug addicts pressured for information." 
 
-The point here is to simply show that drug enforcement has been ineffective and chaotic since the get-go. The New York Times article published on the exact day the DEA consolidation became effective. The "no-knock" was only [banned](https://www.nytimes.com/2020/06/12/us/breonna-taylor-law-passed.html) in Kentucky last month. And only after another fatal raid, one sounding familiar to those detailed above. Though that doesn't mean all localities around the country have followed suit. Many "no-knock" warrant provisions exist.
+The point here is to simply show that drug enforcement has been ineffective and chaotic since the get-go. *The New York Times* article published on the exact day the DEA consolidation became effective. The "no-knock" was only [banned](https://www.nytimes.com/2020/06/12/us/breonna-taylor-law-passed.html) in Kentucky last month. And only after another fatal raid, one sounding familiar to those detailed above. Though that doesn't mean all localities around the country have followed suit. Many "no-knock" warrant provisions still exist.
 
 The archived Times article ends with a quote from Senator Charles H. Percy of Illinois.
 
